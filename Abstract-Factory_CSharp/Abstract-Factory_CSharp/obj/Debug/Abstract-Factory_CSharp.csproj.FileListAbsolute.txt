@@ -1,0 +1,7 @@
+C:\Users\civar\Desktop\Tarea\Programacion II\Tarea4_ProgII\Abstract-Factory_CSharp\Abstract-Factory_CSharp\bin\Debug\Abstract-Factory_CSharp.exe.config
+C:\Users\civar\Desktop\Tarea\Programacion II\Tarea4_ProgII\Abstract-Factory_CSharp\Abstract-Factory_CSharp\bin\Debug\Abstract-Factory_CSharp.exe
+C:\Users\civar\Desktop\Tarea\Programacion II\Tarea4_ProgII\Abstract-Factory_CSharp\Abstract-Factory_CSharp\bin\Debug\Abstract-Factory_CSharp.pdb
+C:\Users\civar\Desktop\Tarea\Programacion II\Tarea4_ProgII\Abstract-Factory_CSharp\Abstract-Factory_CSharp\obj\Debug\Abstract-Factory_CSharp.csprojAssemblyReference.cache
+C:\Users\civar\Desktop\Tarea\Programacion II\Tarea4_ProgII\Abstract-Factory_CSharp\Abstract-Factory_CSharp\obj\Debug\Abstract-Factory_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\civar\Desktop\Tarea\Programacion II\Tarea4_ProgII\Abstract-Factory_CSharp\Abstract-Factory_CSharp\obj\Debug\Abstract-Factory_CSharp.exe
+C:\Users\civar\Desktop\Tarea\Programacion II\Tarea4_ProgII\Abstract-Factory_CSharp\Abstract-Factory_CSharp\obj\Debug\Abstract-Factory_CSharp.pdb

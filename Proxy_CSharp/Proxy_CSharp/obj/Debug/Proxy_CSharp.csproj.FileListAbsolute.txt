@@ -1,0 +1,2 @@
+C:\Users\civar\Desktop\Tarea\Programacion II\Tarea4_ProgII\Proxy_CSharp\Proxy_CSharp\obj\Debug\Proxy_CSharp.csprojAssemblyReference.cache
+C:\Users\civar\Desktop\Tarea\Programacion II\Tarea4_ProgII\Proxy_CSharp\Proxy_CSharp\obj\Debug\Proxy_CSharp.csproj.CoreCompileInputs.cache

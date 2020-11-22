@@ -1,0 +1,7 @@
+C:\Users\civar\Desktop\Tarea\Programacion II\Tarea4_ProgII\Prototype_CSharp\Prototype_CSharp\bin\Debug\Prototype_CSharp.exe.config
+C:\Users\civar\Desktop\Tarea\Programacion II\Tarea4_ProgII\Prototype_CSharp\Prototype_CSharp\bin\Debug\Prototype_CSharp.exe
+C:\Users\civar\Desktop\Tarea\Programacion II\Tarea4_ProgII\Prototype_CSharp\Prototype_CSharp\bin\Debug\Prototype_CSharp.pdb
+C:\Users\civar\Desktop\Tarea\Programacion II\Tarea4_ProgII\Prototype_CSharp\Prototype_CSharp\obj\Debug\Prototype_CSharp.csprojAssemblyReference.cache
+C:\Users\civar\Desktop\Tarea\Programacion II\Tarea4_ProgII\Prototype_CSharp\Prototype_CSharp\obj\Debug\Prototype_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\civar\Desktop\Tarea\Programacion II\Tarea4_ProgII\Prototype_CSharp\Prototype_CSharp\obj\Debug\Prototype_CSharp.exe
+C:\Users\civar\Desktop\Tarea\Programacion II\Tarea4_ProgII\Prototype_CSharp\Prototype_CSharp\obj\Debug\Prototype_CSharp.pdb
